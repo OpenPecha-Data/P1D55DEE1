@@ -1,0 +1,38 @@
+id: P1D55DEE1
+initial_creation_type: input
+source_metadata:
+  title: Jamyang Loter Wangpo Series
+  language: en
+  description: 'Texts by and about Jamyang Loter Wangpo (''jam dbyangs blo gter dbang
+    po, 1847–1914):'
+  volume:
+    99ebf43ed65647aaafa1b86ae0f861da:
+      title: Commentary on Nāgārjuna's Verses on the Essence of Dependent Origination
+      parent: Buddhist Philosophy
+    7f7ef4eeb0e6420d8026fe011b8ed56c:
+      title: Guru Yoga
+      parent: Guru Yoga
+    5d552ce8c8b44bfd861827bceda214d7:
+      title: 'The Bestowal of Supreme Blessings: Praise to the Vajradhara Loter Wangpo'
+      parent: Praise
+    c3cb476ac147400a9b5ddaa45d9540e3:
+      title: Prayer to My Root Guru, Jamyang Loter Wangpo
+      parent: Prayers
+    00b37ef518da4219bccc1c0970c8e145:
+      title: Regularly Recitable Prayer to the Root Guru, Loter Wangpo
+      parent: Prayers
+    ee757c4edbe442deb3f49c2f8cf91c5a:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      parent: Songs
+    95db951b2d0c4cf09fb9f780ec293483:
+      title: Lament Composed in a State of Deep Sadness
+      parent: Songs
+    fbbe22dad67d48cda67118b6269fdef0:
+      title: Prayer to Kongtrul Yönten Gyatso
+      parent: Swift Rebirth Prayers
+    2832c47d74db49f684ce36ea10e3a16d:
+      title: 'Wondrous Light of the Moon: A Prayer for the Swift Appearance of the
+        Supreme Tulku of Vajradhara'
+      parent: Swift Rebirth Prayers
+created_at: '2022-02-28T23:59:31.593872'
+last_modified_at: '2022-02-28T23:59:31.593878'
